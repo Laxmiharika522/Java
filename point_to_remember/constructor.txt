@@ -1,0 +1,7 @@
+1) Constructor is a special method
+2) Constructor name should be same as class name
+3) In constructor we dont specify return type
+4) everytime you create an object constructor is called automatically
+5) A default constructor is: A constructor without parameters.
+6) A custom constructor is: Usually has parameters to initialize the object with specific values.
+

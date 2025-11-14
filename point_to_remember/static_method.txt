@@ -1,0 +1,4 @@
+1) static method can be accessed by class name
+2) static method cannot access non-static variables
+3) But we can access non-static variables inside static method by passing objects as parameters
+4) we can use static variables inside static method
